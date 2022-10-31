@@ -1,0 +1,108 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+} 
+
+body{
+    background-color: rgb(13, 1, 21);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+h2{
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  font-size: 2rem;
+  color: white;
+  text-decoration: underline rgb(233, 53, 233);
+}
+
+header{
+    color: rgb(255, 255, 255);
+    margin: 1rem;
+}
+
+main{
+    padding-bottom: 3rem;
+    width: 100%;
+}
+
+button {
+  margin: 0.6rem;
+  margin-bottom: 2rem;
+  border-radius: 0.9em;
+  border-color: rgb(226, 5, 226);
+  padding: 0.6rem 0.6rem;
+  font-size: 1rem;
+  background-color: #27024f;
+  color: #D0E0E3;
+  cursor: pointer;
+}
+
+#cantidadDiscos{
+  color: white;
+}
+
+.disco{
+  display: inline-block;
+  vertical-align: top;
+  background-color: rgb(184, 155, 220);
+  max-width: 250px;
+  margin: auto;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+}
+
+#cantidad{
+  margin-bottom: 1rem;
+}
+
+.disco .discoCodigo{
+  background-color: aqua;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  border-radius: 1rem;
+}
+
+.disco h2, h3, h4, p{
+  margin: 1rem;
+}
+
+.cancionNombre h3{
+  border-radius: 0.3rem;
+  background-color: #9846ef;
+}
+
+.disco .img img{
+  width: 100%;
+  margin: auto;
+  background-color: rgb(184, 155, 220);
+  border-radius: 0.8rem;
+}
+
+
+
+
+
+footer{
+  color: white;
+  margin-bottom: 2rem;
+}
+
+footer ul li{
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.resaltar{
+  color: red;
+}
