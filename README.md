@@ -1,7 +1,5 @@
 # Parcial 1
 
-## Materia y Carrera
-
 **Facultad:** Da Vinci
 
 **Carrera:** Diseño y Programación Web
