@@ -1,4 +1,3 @@
-'use strict';
 
 /*
  * Nombre Apellido
@@ -29,10 +28,6 @@
 //         {
 //             Nombre: 'cancion 5',
 //             Duracion: 130,
-//         },
-//         {
-//             Nombre: 'cancion 6',
-//             Duracion: 650,
 //         },
 //     ],
 // };
