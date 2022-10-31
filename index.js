@@ -1,35 +1,40 @@
+'uso estricto' ;
 
 /*
- * Nombre Apellido
- */
+* Valdiviezo Ezequiel
+*/
 
-// Ejemplo de la estructura de un disco:
-// let discos = {
-//     Nombre: 'Programación',
-//     Banda: 'Programadores',
-//     Codigo: 1,
-//     Pistas: [
-//         {
-//             Nombre: 'cancion 1',
-//             Duracion: 100,
-//         },
-//         {
-//             Nombre: 'cancion 2',
-//             Duracion: 80,
-//         },
-//         {
-//             Nombre: 'cancion 3',
-//             Duracion: 75,
-//         },
-//         {
-//             Nombre: 'cancion 4',
-//             Duracion: 20,
-//         },
-//         {
-//             Nombre: 'cancion 5',
-//             Duracion: 130,
-//         },
-//     ],
+// Ejemplo de la estructura de una discoteca:
+// dejar discoteca = {
+// Nombre: 'El lado oscuro de la Programación',
+// Autor: 'Los Programadores Anónimos',
+// Codigo: 1,
+// Pistas: [
+// {
+// Nombre: 'Esa cajita loca llamada variablecita',
+// Duración: 200,
+// },
+// {
+// Nombre: 'Nunca quise ser un NaN',
+// Duración: 180,
+// },
+// {
+// Nombre: 'No quiero programar',
+// Duración: 90,
+// },
+// {
+// Nombre: 'Bajo presion',
+// Duración: 240,
+// },
+// {
+// Nombre: 'La odisea de las variables privadas',
+// Duración: 120,
+// },
+// {
+// Nombre: 'Sr. Programador',
+// Duración: 720,
+// },
+// ],
 // };
 
 
