@@ -42,9 +42,6 @@
 let ArregloDeDiscos = [];
 
 function validacionesString(cadena) {
-    if (cadena != null){
-        cadena = cadena.trim();
-    }
     
     if (cadena == "" || cadena == null || cadena == undefined){
         alert("Algo salio mal, por favor volver a ingresar el dato")
